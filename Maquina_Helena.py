@@ -1,0 +1,6 @@
+event_qnt = input()
+event_imp = input().split(", ")
+event_date = input().split(", ")
+event = input().split(", ")
+current_date = input()
+print("x")
